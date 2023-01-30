@@ -20,7 +20,7 @@ public class elmasUCgen {
             System.out.println();
         }
         for (int l = 1; l <= n - 1; l++) {
-            for (int m = 1; m <= (n * l) / 5; m++) {
+            for (int m = 1; m <= l; m++) {
                 System.out.print(" ");
             }
 
