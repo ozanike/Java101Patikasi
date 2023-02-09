@@ -15,7 +15,7 @@ public class ciftArray {
 
     public static void main(String[] args) {
 
-        int[] list = {1,2,3,2,4,6,8,2,10,7,9,19,21,23,26,26,28,28};
+        int[] list = {1,1,1,2,2,2,3,3,4,4,6,6,8,7,7};
         int[] dublicate = new int[list.length];
         int startindex = 0;
 
